@@ -1,5 +1,5 @@
 Free Traffic Turn Counter
 ===================
 
-Count traffic turn movement.
+Count traffic turn movement. 
 
