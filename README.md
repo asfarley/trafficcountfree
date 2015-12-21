@@ -3,7 +3,7 @@ Free Traffic Turn Counter
 
 Count traffic turn movement. 
 
-[See page live](asfarley.github.io/trafficcountfree/)
+[See page live](http://asfarley.github.io/trafficcountfree/)
 
 * Count left, right, straight movements for 4 approaches
 * Free to use
