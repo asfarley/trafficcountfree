@@ -22,6 +22,8 @@ function updateCounts()
 	countsString += "<b>3:</b> L " + left3.toString() + " S " + straight3.toString() + " R " + right3.toString() + "<br/>";
 	countsString += "<b>4:</b> L " + left4.toString() + " S " + straight4.toString() + " R " + right4.toString() + "<br/>";
 	$("#counts").html(countsString);
+	
+	window.navigator.vibrate(50);
 }
 
 function IncrementStraight1(e)
