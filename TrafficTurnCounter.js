@@ -26,84 +26,84 @@ function updateCounts()
 
 function IncrementStraight1(e)
 {
-	window.navigator.vibrate(20);
+	window.navigator.vibrate(30);
 	straight1++;
 	updateCounts();
 }
 
 function IncrementLeft1(e)
 {
-	window.navigator.vibrate(20);
+	window.navigator.vibrate(30);
 	left1++;
 	updateCounts();
 }
 
 function IncrementRight1(e)
 {
-	window.navigator.vibrate(20);
+	window.navigator.vibrate(30);
 	right1++;
 	updateCounts();
 }
 
 function IncrementStraight2(e)
 {
-	window.navigator.vibrate(20);
+	window.navigator.vibrate(30);
 	straight2++;
 	updateCounts();
 }
 
 function IncrementLeft2(e)
 {
-	window.navigator.vibrate(20);
+	window.navigator.vibrate(30);
 	left2++;
 	updateCounts();
 }
 
 function IncrementRight2(e)
 {
-	window.navigator.vibrate(20);
+	window.navigator.vibrate(30);
 	right2++;
 	updateCounts();
 }
 
 function IncrementStraight3(e)
 {
-	window.navigator.vibrate(20);
+	window.navigator.vibrate(30);
 	straight3++;
 	updateCounts();
 }
 
 function IncrementLeft3(e)
 {
-	window.navigator.vibrate(20);
+	window.navigator.vibrate(30);
 	left3++;
 	updateCounts();
 }
 
 function IncrementRight3(e)
 {
-	window.navigator.vibrate(20);
+	window.navigator.vibrate(30);
 	right3++;
 	updateCounts();
 }
 
 function IncrementStraight4(e)
 {
-	window.navigator.vibrate(20);
+	window.navigator.vibrate(30);
 	straight4++;
 	updateCounts();
 }
 
 function IncrementLeft4(e)
 {
-	window.navigator.vibrate(20);
+	window.navigator.vibrate(30);
 	left4++;
 	updateCounts();
 }
 
 function IncrementRight4(e)
 {
-	window.navigator.vibrate(20);
+	window.navigator.vibrate(30);
 	right4++;
 	updateCounts();
 }
