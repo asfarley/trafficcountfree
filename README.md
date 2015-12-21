@@ -9,3 +9,5 @@ Count traffic turn movement.
 * Free to use
 * Nothing to install
 * Compatible with most Android and iPhone screen sizes
+
+![screenshot](https://raw.githubusercontent.com/asfarley/trafficcountfree/gh-pages/screenshot.png "screenshot")
