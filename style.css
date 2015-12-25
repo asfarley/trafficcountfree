@@ -2,6 +2,7 @@ body {
 	background-color:#d1d1e0;
 }
 
+@media screen and (min-width: 640px) {
 #navbar {
 	background-color:#3f51b5;
 	position:fixed;
@@ -27,6 +28,31 @@ body {
     border-style: solid;
     text-align: center;
     padding: 10px;
+}
+}
+
+@media screen and (max-width: 640px) {
+#navbar {
+	visibility:hidden;
+	height:0;
+	margin:0;
+}
+
+#ads {
+	top:0px;
+	width:100%;
+	float:right;
+	height: 73px;
+	z-index:100;
+	position:relative;
+	color: white;
+	border-color: white;
+    font-size: larger;
+    border-width: 3px;
+    border-style: solid;
+    text-align: center;
+    padding: 10px;
+}
 }
 
 #mainui {
