@@ -10,6 +10,29 @@ body {
 	width:100%;
 	color: white;
 	padding: 20px;
+	z-index:90;
+}
+
+#ads {
+	top:0px;
+	width:50%;
+	float:right;
+	height: 73px;
+	z-index:100;
+	position:relative;
+	color: white;
+	border-color: white;
+    font-size: larger;
+    border-width: 3px;
+    border-style: solid;
+    text-align: center;
+    padding: 10px;
+}
+
+#mainui {
+	position:fixed;
+	width:100%;
+	height:100%;
 }
 
 #mainui {
